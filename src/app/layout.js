@@ -10,7 +10,7 @@ const jetbrainsMono = Inter({
 });
 
 export const metadata = {
-	title: "portfolio/grantt_3",
+	title: "Grantt",
 	description: "Portfolio",
 	icons: {
 		icon: "/favicon.ico", // Note the leading forward slash
